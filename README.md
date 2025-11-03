@@ -16,6 +16,8 @@ Areas of Interest: Web Development, DSA, Problem Solving, AI/ML, Data Analytics
 - DSA Practice:Solving problems daily to enhance my logic and problem-solving skills.  
 - Web Development Projects:
   - 🧺FreshWash Laundry - "Clean Clothes, Happy You" A full-featured, responsive laundry e-commerce platform built with modern technologies.
+  - 🌱Plant Disease Prediction using CNN – Built TensorFlow/Keras CNN detecting leaf diseases; image preprocessing & augmentation.
+  - 🏦Java Bank Management System – OOP‑based banking system with authentication, transactions, account logic.
   - ✅ ToDo App– A task management app to add, delete, and update daily tasks easily.
 
 ## 📊 Future Goals

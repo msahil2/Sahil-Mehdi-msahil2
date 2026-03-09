@@ -19,6 +19,7 @@ Areas of Interest: Web Development, DSA, Problem Solving, AI/ML, Data Analytics
   - 🌱Plant Disease Prediction using CNN – Built TensorFlow/Keras CNN detecting leaf diseases; image preprocessing & augmentation.
   - 🏦Java Bank Management System – OOP‑based banking system with authentication, transactions, account logic.
   - ✅ ToDo App– A task management app to add, delete, and update daily tasks easily.
+  - TCP Multiclient messaging system.
 
 ## 📊 Future Goals
 - Learn and build projects in  Machine Learning  and  Data Analytics.  
